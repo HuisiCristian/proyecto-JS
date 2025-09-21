@@ -1,4 +1,7 @@
 
+// TURNOS
+
+
 // PEDIR DATOS AL PACIENTE
 
 function pedirdatos(datoapedir){
